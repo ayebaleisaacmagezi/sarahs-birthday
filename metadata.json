@@ -1,0 +1,6 @@
+{
+  "name": "My Imgur Gallery",
+  "description": "Explore a collection of images in interactive 3D sphere and grid layouts.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
